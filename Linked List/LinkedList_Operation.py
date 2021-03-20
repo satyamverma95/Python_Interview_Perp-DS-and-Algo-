@@ -81,7 +81,7 @@ if __name__ == "__main__":
   ll.appendToLast(90)
   ll.appendToLast(23)
   ll.insertAfter(56, 78)
-  ll.deleteNode(  )
+  #ll.deleteNode(  )
 
   ll.printLinkedList()
   
