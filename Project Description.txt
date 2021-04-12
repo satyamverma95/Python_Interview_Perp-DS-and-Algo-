@@ -1,0 +1,5 @@
+This project was created by Satyam Verma. This repository aims to help those who are preparing for the interviews. 
+
+Feel free to clone the project and make changes to see how the program behaves when things change. 
+
+If you have any query feel free to reach out to me at satyamverma95@gmail.com
